@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 1. [Accelerator Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby/tree/rk/donate_btn)
+
+### Day 2: September 15, 2020
+
+**Today's Progress**: Re-started flutter/dart and created a home screen with active buttons and retrieving an image using api
+
+**Thoughts** After leaving flutter for almost a year, i found it alot easier to pick back up given that i understand programming concepts a lot better and able to translate the code and what it is doing. An example is seeing how constructors/intiailisers work. It is easier to figure out the code and cleaner architecture having this experience. This means that the more i practice concpets as opposed to specific syntax, i can learn any language or stack pretty quickly.
+
+**Link(s) to work**
+1. [SwipeNSwap](git@github.com:rishFilet/swipe_n_swap.git)
