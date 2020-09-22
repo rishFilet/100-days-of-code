@@ -18,7 +18,7 @@
 **Link(s) to work**
 1. [SwipeNSwap](https://github.com/rishFilet/swipe_n_swap.git)
 
-### Day 3: September 17, 2020
+### Day 3: September 18, 2020
 
 **Today's Progress**: Worked on fixing the animation for the donate button on TTM website. Fixed layout issues with text, button and heart. Made heart grow with hover over button.
 
