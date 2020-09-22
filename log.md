@@ -23,3 +23,6 @@
 **Today's Progress**: Worked on fixing the animation for the donate button on TTM website. Fixed layout issues with text, button and heart. Made heart grow with hover over button.
 
 **Thoughts** Animations are very tough in web dev. I have a new respect for how much effort goes into making an animation for a webpage now.
+
+**Link(s) to work**
+1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby)
