@@ -26,3 +26,21 @@
 
 **Link(s) to work**
 1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby)
+
+### Day 4: September 22, 2020
+
+**Today's Progress**: Worked on fixing the tab accessibility borders on the navbar
+
+**Thoughts** Learned about using windows and event listeners
+
+**Link(s) to work**
+1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby/tree/rishfilet/accessibilty_buttons)
+
+### Day 5: September 23, 2020
+
+**Today's Progress**: Worked on adding responsiveness to elements 
+
+**Thoughts** Learned about using viewports and an interesting technique in css called calc
+
+**Link(s) to work**
+1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby/tree/rishfilet/accessibilty_buttons)
