@@ -8,6 +8,7 @@
 
 **Link(s) to work**
 1. [Accelerator Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby/tree/rk/donate_btn)
+***
 
 ### Day 2: September 15, 2020
 
@@ -17,6 +18,7 @@
 
 **Link(s) to work**
 1. [SwipeNSwap](https://github.com/rishFilet/swipe_n_swap.git)
+***
 
 ### Day 3: September 18, 2020
 
@@ -26,6 +28,7 @@
 
 **Link(s) to work**
 1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby)
+***
 
 ### Day 4: September 22, 2020
 
@@ -35,6 +38,7 @@
 
 **Link(s) to work**
 1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby/tree/rishfilet/accessibilty_buttons)
+***
 
 ### Day 5: September 23, 2020
 
@@ -44,3 +48,24 @@
 
 **Link(s) to work**
 1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby/tree/rishfilet/accessibilty_buttons)
+***
+
+### Day 6: September 24, 2020
+
+**Today's Progress**: Added optimisations to make the website load faster by preloading images and not loading the html until the react is loaded. This was done using React Hooks
+
+**Thoughts** React hooks are very powerful and the difference between componentDidMount and effects is that effects can be used in a functio and does not need a class. Preloading fonts, especially ones from a url are better set to load in the cache using a plugin. They can be checked in the network inspector of the website to see which elemnts are taking the longest to load. Preloading and prefetching is important and seeing that things load in a correct order.
+
+**Link(s) to work**
+1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby/tree/1/rishfilet/loading_elements_bug)
+***
+
+### Day 7: September 25, 2020
+
+**Today's Progress**: Worked more on preloading fonts for other sections of the page, specifically with loading fonts that are using materialUI styling. Still trying to figure out why the logo and skyline header are loaded after the html is loaded causing some breakage 
+
+**Thoughts** Loading fonts is different when using material UI for styling. Adding a placeholder is a good idea (such as a blurred photo) when loading images to give the effect of progressive loading but this does not solve the images not loading when the site first loads up.
+
+**Link(s) to work**
+1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby/tree/rishfilet/preloading_images_fonts)
+***
