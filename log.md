@@ -69,3 +69,32 @@
 **Link(s) to work**
 1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby/tree/rishfilet/preloading_images_fonts)
 ***
+
+### Day 8: September 28, 2020
+
+**Today's Progress**: Worked on setting up an azure pipeline for deploying the android app on committing to master
+
+**Thoughts** : After a lot of effort, there were issues with the quota for the microsoft hosted service and issues with the agent for self hosting. Spending a lot of time debugging was not worth it to commit to using azure devops for this application.
+
+**Link(s) to work**
+1. [Swipe n Swap](https://github.com/rishFilet/swipe_n_swap/tree/rishfilet/setup_CI_Android)
+***
+
+### Day 9: September 29, 2020
+
+**Today's Progress**: Took a break from the devops and went to making a script on python that can add these logs easily without having to visit github or open an ide.
+
+**Thoughts** : I miss python. So powerful with such small snippets of code. Working on this is making my realise that python may not be the best end result for a UI so might have to transfer to a webapp or API that can be accessed from flutter or email.
+
+**Link(s) to work**
+1. [Add to gitlog script](https://github.com/rishFilet/add-to-gitlog)
+***
+### Day 10: September 30, 2020
+
+**Today's Progress**: Worked on creating the android pipeline using travis CI and fastlane
+
+**Thoughts** : Travis and fastlane seem to work alot better than azure dev ops. There were a lot of issues with devops that could not be overcome easily. Fastlane does have a bit of a setup and learning curve with flutter but works great with travis and easy to connect by just using a yml file and triggers on upload.
+
+**Link(s) to work**
+1. [Swipe n Swap](https://github.com/rishFilet/swipe_n_swap/tree/rishfilet/travis_firebase_distribute)
+***
