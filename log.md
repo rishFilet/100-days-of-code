@@ -98,3 +98,21 @@
 **Link(s) to work**
 1. [Swipe n Swap](https://github.com/rishFilet/swipe_n_swap/tree/rishfilet/travis_firebase_distribute)
 ***
+### Day 11: October 1, 2020
+
+**Today's Progress**: Worked on fixing loading of the elements and fonts. Learning hwo to optimise the loading of SVGs in react
+
+**Thoughts** : Optimising the loading of SVGs goes a long way to the performance of the website. Doing this also uncovered some areas of the website that take a long time to load. It should be noted that there were differences in performance on chrome and firefox. Using the profiler tool is very powerful to finding these loading issues and which parts take long to load. 
+
+**Link(s) to work**
+1. [TTM Website](https://github.com/Toronto-Tech-Mentoring/TTM-Gatsby/tree/rishfilet/preloading_images_fonts)
+***
+### Day 12: October 2, 2020
+
+**Today's Progress**: Successfully created the pipeline for the android app and conditionally test and build when not on master. 
+
+**Thoughts** : Learned a lot about how to use Travis CI and creating stages and jobs. Found that the errors came down to licesnses, the correct SDK version and checking in the fastile if i am not trying to find a folder that has not existed before the build (i.e. the debug-apk) folder.
+
+**Link(s) to work**
+1. [Swipe n Swap](https://github.com/rishFilet/swipe_n_swap/tree/rishfilet/travis_firebase_distribute)
+***
